@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "42giggino",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "SMPCraftGino.aternos.me:17748",
+    "port": 17748,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
